@@ -1,3 +1,4 @@
-computer1
-computer2
-computer3
+WSFCFILESERVER
+WSFCluster1
+WSFCNODE1
+WSFCNODE2
