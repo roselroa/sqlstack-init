@@ -23,5 +23,5 @@ ForEach ($Computer in (Get-Content $FileHosts))
 $FileUsers = "users.txt"
 ForEach ($User in (Get-Content $FileUsers))
 {
-  Remove-ADUser -Identity $User
+  Remove-ADUser -Identity -Confirm:$False $User
 }
