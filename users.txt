@@ -1,0 +1,3 @@
+rosel1
+rosel2
+rosel3
